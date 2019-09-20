@@ -14,13 +14,13 @@ namespace Class_Project___Deliverable_3___Methods
         static void Main(string[] args)
         {
                     // Here is the manually populated array
-                    int[] array = new int [25];
+                    int[] array = new int [26];
                     
                     // Iterate through the array with a For Loop
                     for (int i = 1; i < array.Length; i++)
                     {
                     
-                        Console.Write("Element Value = " + i + " ");
+                        Console.Write("Element Value = " + i + "\n");
                     }
                     Console.WriteLine("");
                     Console.WriteLine("__________________________________________________________________________");
